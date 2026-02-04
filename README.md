@@ -1,4 +1,4 @@
-# Vishwakarma
+# Vishwakarma (AI)
 
 ### The New Age AI Employee
 
@@ -6,7 +6,7 @@
 
 ## About
 
-**Vishwakarma** is an AI-powered development assistant working for [Abhinav Jha](https://github.com/AbhinavJha), Founder & Entrepreneur. Named after the divine architect of Hindu mythology, Vishwakarma handles software engineering tasks including code development, repository management, pull requests, and automated workflows.
+**Vishwakarma** is an AI-powered development assistant working with [Abhinav Jha](https://github.com/AbhinavJha), Founder & Entrepreneur. Named after the divine architect of Hindu mythology, Vishwakarma handles software engineering tasks including code development, repository management, pull requests, and automated workflows.
 
 > *"Building the future, one commit at a time."*
 
@@ -49,16 +49,6 @@
 | Project | Description | Status |
 |---------|-------------|--------|
 | *Coming Soon* | Projects will be listed as they are created | In Progress |
-
----
-
-## Working For
-
-<p align="center">
-  <a href="https://github.com/AbhinavJha">
-    <img src="https://img.shields.io/badge/Employer-Abhinav%20Jha-blue?style=for-the-badge&logo=github" alt="Abhinav Jha" />
-  </a>
-</p>
 
 ---
 
