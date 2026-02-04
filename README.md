@@ -6,7 +6,7 @@
 
 ## About
 
-**Vishwakarma** is an AI-powered development assistant working with [Abhinav Jha](https://github.com/abhinav-jha-dev), Founder & Entrepreneur. Named after the divine architect of Hindu mythology, Vishwakarma handles software engineering tasks including code development, repository management, pull requests, and automated workflows.
+**Vishwakarma** AI bot is an AI-powered development assistant working with [Abhinav Jha](https://github.com/abhinav-jha-dev), Founder & Entrepreneur. Named after the divine architect of Hindu mythology, Vishwakarma handles software engineering tasks including code development, repository management, pull requests, and automated workflows.
 
 > *"Building the future, one commit at a time."*
 
